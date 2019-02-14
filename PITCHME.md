@@ -1,7 +1,6 @@
 ---?image=assets/images/gitpitch-audience.jpg
 @title[Tianocore Open Source Training contents]
 <br><br>
-<span style="font-size:0.75em" >This slide deck has moved to:  https://gitpitch.com/tianocore-training/Tianocore_training_template/master#/</span>
 <br><br><br>
 ## <span class="gold"   >UEFI & EDK II Training</span>
 
@@ -406,17 +405,15 @@ Note:
 <br>
 <br>
 <br>
-<p align="center"><span style="font-size:0.9em">Return to Training Table of contents for next presentation <a href="https://github.com/tianocore-training/Tianocore_Training_Contents/wiki">link</a></span></p>
+<p align="center"><span style="font-size:0.9em">Return to Training Table of contents for next presentation <a href="https://github.com/tianocore-training/Tianocore_Training_Contents/wiki#schedule--outline">link</a></span></p>
 
 @snap[north span-30 ]
 <br>
 <br>
 <br>
-<a href="https://github.com/tianocore-training/Tianocore_Training_Contents/wiki">
+<a href="https://github.com/tianocore-training/Tianocore_Training_Contents/wiki#schedule--outline">
 ![trainingLogo](/assets/images/returnTrainingLogo.png)</a>
 @snapend
-
-
 
 ---?image=assets/images/gitpitch-audience.jpg
 @title[Logo Slide]
