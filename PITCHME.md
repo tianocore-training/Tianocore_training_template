@@ -401,21 +401,20 @@ Note:
 ---
 @title[return to main]
 #### <p align="center"<span class="gold"   >Return to Main </span></p>
-@snap[north span-20 ]
 <br>
-<br>
-<br>
-<br>
-<a href="https://github.com/tianocore-training/Tianocore_Training_Contents/wiki">
-![trainingLogo](/assets/images/returnTrainingLogo.png)</a>
-@snapend
-
 <br>
 <br>
 <br>
 <br>
 <span style="font-size:0.9em">&nbsp;&nbsp;Return to Training Table of contents <a href="https://github.com/tianocore-training/Tianocore_Training_Contents/wiki">link</a></span>
 
+@snap[north span-25 ]
+<br>
+<br>
+<br>
+<a href="https://github.com/tianocore-training/Tianocore_Training_Contents/wiki">
+![trainingLogo](/assets/images/returnTrainingLogo.png)</a>
+@snapend
 
 
 
