@@ -415,7 +415,7 @@ Note:
 <br>
 <br>
 <a href="https://github.com/tianocore-training/Tianocore_Training_Contents/wiki">
-![trainingLogo](/assets/images/tianocoreTrainingLogo-black.jpg)
+![trainingLogo](/assets/images/return_trainingLogo.JPG)
 </a>
 @snapend
 
