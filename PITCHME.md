@@ -409,6 +409,15 @@ Note:
 <span style="font-size:0.9em">&nbsp;&nbsp;return to Training Table of contents <a href="https://github.com/tianocore-training/Tianocore_Training_Contents/wiki">link</a></span>
 
 
+@snap[north span-15 ]
+<br>
+<br>
+<br>
+<br>
+![trainingLogo](/assets/images/tianocoreTrainingLogo-black.jpg)
+@snapend
+
+
 ---?image=assets/images/gitpitch-audience.jpg
 @title[Logo Slide]
 <br><br><br>
