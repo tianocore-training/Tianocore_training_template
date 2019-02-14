@@ -40,16 +40,15 @@ Note:
 
 ---
 @title[Speaker notes]
-### <p align="center"<span class="gold"   >Add Speaker Notes </span></p><br>
+### <p align="center"<span class="gold"   >Add Speaker Notes </span></p>
 <span style="font-size:0.9em">
 Speaker notes can be added by using key word "Note:" in the <b>PITCHME.md</b> file after defining the slide content
 </span>
-<ul style="list-style-type:disc">
+
 - must be after all slide markdown
 - show up in the speaker notes 
 - use key "S" to display speaker notes during slide show
 - uses markdown 
-</ul>
 
 Note:
 
@@ -61,20 +60,19 @@ Note:
 
 ---
 @title[gitpitch Widget]
-### <p align="center"<span class="gold"   >Gitpitch Widget </span></p><br>
-<span style="font-size:0.9em">
+### <p align="center"<span class="gold"   >Gitpitch Widget </span></p>
+<span style="font-size:0.7em">
 GitPitch provides a number of unique syntax shortcuts supported by <b>PITCHME.md</b> markdown that can be used to generate rich visual components - aka. widgets - on any slide.
 See <a href="https://gitpitch.com/docs/markdown-features/widgets/"> link</a>
 </span>
 
-<ul style="list-style-type:disc">
+
 - &commat;box - Render Boxed Text
 - &commat;quote - Render Styled Quotes
 - &commat;fa - Render Font-Awesome Icons <a href'https://fontawesome.com/cheatsheet>Link</a>
 - &commat;img - Render Styled Images
 - &commat;snap - Render Content using Snap Layouts
 - &commat;size, &commat;color, &commat;css, &commat;title, &commat;transition - for shortcut markdown syntax
-</ul>
 
 Note:
 
@@ -83,7 +81,7 @@ Note:
 ---  
 @title[Lesson Objective]
 <BR>
-### <p align="center"<span class="gold"   >Lesson Objective </span></p><br>
+### <p align="center"<span class="gold"   >Lesson Objective </span></p>
 
 <!---  Add bullets using https://fontawesome.com/cheatsheet certificate
 -->
@@ -152,7 +150,7 @@ Note:
 @snapend
 
 @snap[south span-35 fragment]
-@box[bg-brick text-white waved ](<b>Item 5 with details</b><br><br>)
+@box[bg-brick text-white waved ](<b>Item 5 with details and more</b><br><br>)
 @css[text-yellow]( <br>&nbsp;)
 @snapend
 
@@ -168,9 +166,9 @@ Note:
 
 ---?image=/assets/images/slides/Slide71.JPG
 @title[Key Points for More Secure Software MMI Handlers]
-<span style="font-size:0.9em"><font color="#A8ff60"><i>Example using slide with image already as background</i></font></span>
+<span style="font-size:0.9em"><font color="#A8ff60"><i>Example using slide with image for entire slide but only right side</i></font></span>
 
-<p align="right"><span class="gold" ><b>Image used for entire slide</b></span></p>
+<p align="right"><span class="gold" ><b>Title Topic with Image for this side</b></span></p>
 <br>
 <div class="left1">
      <ul>
@@ -189,7 +187,7 @@ Note:
 ---
 @title[Example: Image build]
 <p align="center"><span style="font-size:01.1em"><font color="#e49436"><b>Shell Scripts (Benefits)</b></font></span></p>
-<span style="font-size:0.9em"><font color="#A8ff60"><i>Example images as a build slide</i></font></span>
+<p align="right"><span style="font-size:0.9em"><font color="#A8ff60"><i>Example images as a build slide</i></font></span></p>
 
 @snap[north-west span-25  ]
 <br>
@@ -202,7 +200,7 @@ Note:
 <br>
 <br>
 <br>
-<span style="font-size:01.2em">Example 1 about this image or topic &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span style="font-size:01.2em">Example 1 about this topic &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 @snapend
 
 
@@ -211,7 +209,7 @@ Note:
 @snapend
 
 @snap[west span-70 fragment  ]
-<span style="font-size:01.2em">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Example 2 about this image or topic&nbsp;&nbsp;&nbsp;</span>
+<span style="font-size:01.2em">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Example 2 about this  topic&nbsp;&nbsp;&nbsp;</span>
 @snapend
 
 
@@ -220,12 +218,16 @@ Note:
 @snapend
 
 @snap[south-east span-70 fragment  ]
-<span style="font-size:01.2em">Example 3 about this image or topic</span>
+<span style="font-size:01.2em">Example 3 about this topic</span>
 <br>
 <br>
 <br>
 @snapend
 
+
+@snap[south span-100 ]
+<span style="font-size:0.5em">@color[#A8ff60](<i>NOTE the alignment of text on this slide</i>)</span>
+@snapend
 Note: 
 
 
@@ -269,6 +271,11 @@ Note:
 @box[bg-cream text-black rounded my-box-pad2  ](<p style="line-height:60%">cream <span style="font-size:0.9em"><br>&nbsp;</span></p>)
 @box[bg-cream2 text-black rounded my-box-pad2  ](<p style="line-height:60%">cream2 <span style="font-size:0.9em"><br>&nbsp;</span></p>)
 @box[bg-white text-black rounded my-box-pad2  ](<p style="line-height:60%">white <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@snapend
+
+
+@snap[south span-100 ]
+<span style="font-size:0.5em">@color[#A8ff60](<i>NOTE the next slide with "&or;" are subsets using "&plus;&plus;&plus;" delimiter  </i>)</span>
 @snapend
 
 +++
@@ -370,7 +377,7 @@ Note:
 ---  
 @title[Summary]
 <BR>
-### <p align="center"<span class="gold"   >Summary </span></p><br>
+### <p align="center"<span class="gold"   >Summary </span></p>
 
 <!---  Add bullets using https://fontawesome.com/cheatsheet certificate
 -->
@@ -390,6 +397,16 @@ Note:
 @title[Questions]
 <br>
 ![Questions](/assets/images/questions.JPG =10x) 
+
+---
+@title[return to main]
+#### <p align="center"<span class="gold"   >Return to Main </span></p>
+<br>
+<br>
+<br>
+<br>
+<span style="font-size:03.9em"><font color="yellow"><a href="">&larrhk;</a></font></span>
+<span style="font-size:0.9em">&nbsp;&nbsp;return to Training Table of contents </span>
 
 
 ---?image=assets/images/gitpitch-audience.jpg
