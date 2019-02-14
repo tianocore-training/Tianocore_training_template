@@ -69,7 +69,7 @@ See <a href="https://gitpitch.com/docs/markdown-features/widgets/"> link</a>
 
 - &commat;box - Render Boxed Text
 - &commat;quote - Render Styled Quotes
-- &commat;fa - Render Font-Awesome Icons <a href'https://fontawesome.com/cheatsheet>Link</a>
+- &commat;fa - Render Font-Awesome Icons <a href='https://fontawesome.com/cheatsheet'>Link</a>
 - &commat;img - Render Styled Images
 - &commat;snap - Render Content using Snap Layouts
 - &commat;size, &commat;color, &commat;css, &commat;title, &commat;transition - for shortcut markdown syntax
@@ -405,8 +405,8 @@ Note:
 <br>
 <br>
 <br>
-<span style="font-size:03.9em"><font color="yellow"><a href="">&larrhk;</a></font></span>
-<span style="font-size:0.9em">&nbsp;&nbsp;return to Training Table of contents </span>
+<span style="font-size:03.9em"><font color="#A8ff60"><b>&larrhk;</b></font></span>
+<span style="font-size:0.9em">&nbsp;&nbsp;return to Training Table of contents <a href="https://github.com/tianocore-training/Tianocore_Training_Contents/wiki">link</a></span>
 
 
 ---?image=assets/images/gitpitch-audience.jpg
