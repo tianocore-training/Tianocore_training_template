@@ -409,7 +409,7 @@ Note:
 <span style="font-size:0.9em">&nbsp;&nbsp;return to Training Table of contents <a href="https://github.com/tianocore-training/Tianocore_Training_Contents/wiki">link</a></span>
 
 
-@snap[north span-15 ]
+@snap[north span-20 ]
 <br>
 <br>
 <br>
@@ -417,6 +417,10 @@ Note:
 <a href="https://github.com/tianocore-training/Tianocore_Training_Contents/wiki">
 ![trainingLogo](/assets/images/return_trainingLogo.JPG)
 </a>
+<br>
+<br>
+<br>
+![trainingLogo](/assets/images/returnTrainingLogo.png)
 @snapend
 
 
