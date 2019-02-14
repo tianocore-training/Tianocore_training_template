@@ -401,27 +401,22 @@ Note:
 ---
 @title[return to main]
 #### <p align="center"<span class="gold"   >Return to Main </span></p>
-<br>
-<br>
-<br>
-<br>
-<span style="font-size:03.9em"><font color="#A8ff60"><b>&larrhk;</b></font></span>
-<span style="font-size:0.9em">&nbsp;&nbsp;return to Training Table of contents <a href="https://github.com/tianocore-training/Tianocore_Training_Contents/wiki">link</a></span>
-
-
 @snap[north span-20 ]
 <br>
 <br>
 <br>
 <br>
 <a href="https://github.com/tianocore-training/Tianocore_Training_Contents/wiki">
-![trainingLogo](/assets/images/return_trainingLogo.JPG)
-</a>
-<br>
-<br>
-<br>
-![trainingLogo](/assets/images/returnTrainingLogo.png)
+![trainingLogo](/assets/images/returnTrainingLogo.png)</a>
 @snapend
+
+<br>
+<br>
+<br>
+<br>
+<span style="font-size:0.9em">&nbsp;&nbsp;Return to Training Table of contents <a href="https://github.com/tianocore-training/Tianocore_Training_Contents/wiki">link</a></span>
+
+
 
 
 ---?image=assets/images/gitpitch-audience.jpg
