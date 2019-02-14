@@ -406,8 +406,6 @@ Note:
 <br>
 <br>
 <br>
-<br>
-<br>
 <p align="center"><span style="font-size:0.9em">Return to Training Table of contents for next presentation <a href="https://github.com/tianocore-training/Tianocore_Training_Contents/wiki">link</a></span></p>
 
 @snap[north span-30 ]
